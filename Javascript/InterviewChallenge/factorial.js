@@ -1,4 +1,6 @@
 
+// 6. Write a JavaScript program to calculate the factorial of a given number.
+
 // Input: N = 5
 // Output: 120
 // Explanation: 5! = 5 × 4 × 3 × 2 × 1 = 120
